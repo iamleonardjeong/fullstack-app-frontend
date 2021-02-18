@@ -2,5 +2,11 @@
 
 [Stack] React, Redux, Redux-Saga, Styled-Components
 
-1. 회원가입, 로그인, 로그아웃 기능 완료
-2. 글쓰기 기능 구현 중
+login
+![login](./src/img/login.png)
+
+write
+![write](./src/img/write.png)
+
+post
+![post](./src/img/post.png)
